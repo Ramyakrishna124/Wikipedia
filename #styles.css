@@ -1,0 +1,22 @@
+#container {
+    width:400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+#task {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+button {
+    width: 20%;
+    background-color: blue;
+    color: aqua;
+    border: none;
+}
